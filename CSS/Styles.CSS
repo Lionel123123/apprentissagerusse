@@ -1,0 +1,139 @@
+
+
+header {
+
+	background-color: #374FA3;
+
+}
+
+
+nav.menu ul li.Bouton {
+
+	display:inline-block;
+	list-style-type: none;
+	
+}
+
+
+nav.menu ul li.Bouton a{
+
+	color: #008EFF;
+	background-color: #1C81D1;
+	text-decoration: none;
+	font-family: fantasy;
+	font-weight: bold;
+	font-size : 20px;
+	padding: 10px;
+
+}
+
+nav.menu ul li.Bouton:hover a{
+
+	color : green;
+	background-color: #A40858;
+	transition: 0.3s all;
+
+}
+
+
+body {
+
+	background-color: #72ADFF
+}
+
+
+
+h1.titre1{
+
+	font-size:85px;
+	padding-left: 90px;
+}
+
+
+h2.titre2{
+
+	font-size:58px;
+	padding-left: 90px;
+
+}
+
+div#content {
+
+background-color: #122A73;
+
+}
+
+div#content div {
+
+	display: inline-block;
+	width :40%;
+	
+}
+
+
+div#content div.leftbox{
+
+	background-color: #374FA3;
+	vertical-align: top;
+
+}
+
+div#content div.rightbox p, a{
+
+	margin: 80px;
+	background-color: #374FA3;
+
+
+}
+
+
+
+p.caca{
+
+color: #960003;
+font-weight: bold;
+font-size : 35px;
+
+}
+
+p.pipi{
+
+color: #960003;
+font-weight: bold;
+font-size : 35px;
+
+}
+
+footer {
+
+	background-color: #374FA3;
+	margin: 120px;
+
+}
+
+footer img {
+
+	border-radius: 33%
+}
+
+div#content div.leftbox iframe {
+
+	border-radius: 50%
+
+h1.Généralités{
+
+	font-size:88px;
+	padding-left: 90px;
+	color: #A40858;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+
+p.vomi{
+
+	color: #A40808;
+	font-weight: bold;
+	font-size : 40px;
+
+}
